@@ -24,7 +24,7 @@ Bio: | Bio:
 
 1. Set up MFA on your Github account
 2. Add your BYU email (netID@byu.edu) as a secondary email to your Github profile; other aliases won't work
-3. Email Roman (romanv7@byu.edu) with your net ID, BYU ID, and what projects you will be working on (professors should know)
+3. Email Roman (romanv7@byu.edu) with your net ID, BYU ID, github username, and what projects you will be working on (professors should know)
 4. Check your BYU email for an invitation to join the Github Organization, and accept!
 **OR**
 5. Log in to Github, and there should be something that can tell you to accept the invite from within the browser (untested, someone get back to me if this works for you)
