@@ -11,6 +11,13 @@ This Github organization is a part of the Church Educational System Github Enter
 @romanvish
 
 ### Student Contributors
+Lara Allen  | Michael Kane
+:------------:|:------------:
+Github: | Github:
+Major: | Major:
+Bio: | Bio:
+
+### Former Students
 
 
 ## How to become a member of this Github
