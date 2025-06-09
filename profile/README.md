@@ -13,9 +13,9 @@ This Github organization is a part of the Church Educational System Github Enter
 ### Student Contributors
 Lara Allen  | Michael Kane
 :------------:|:------------:
-Github: | Github:
-Major: | Major:
-Bio: | Bio:
+Github: larajustus | Github:
+Major: Information Systems | Major:
+Bio: When I'm not coding, I love playing ultimate frisbee, reading, attending BYU sporting events, and watching Dancing with the Stars. I am originally from Wisconsin, and I am about to start an integrated IS Masters program in the fall!  | Bio:
 
 ### Former Students
 
