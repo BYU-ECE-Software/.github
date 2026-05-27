@@ -11,14 +11,15 @@ This Github organization is a part of the Church Educational System Github Enter
 @romanvish
 
 ### Student Contributors
-Lara Allen  | Michael Kane | Morgan Wilbert
-:------------:|:------------:|:------------:
-Github: larajustus | Github:MichaelKane-T | Github: morguewilbie
-Major: Information Systems | Major: Electrical and Computer Engineering | Major: Cybersecurity
-Bio: When I'm not coding, I love playing ultimate frisbee, reading, attending BYU sporting events, and watching Dancing with the Stars. I am originally from Wisconsin, and I am about to start an integrated IS Masters program in the fall!  | Bio: Driven by a passion for coding and electronics, I thrive on learning new skills and solving complex problems. Whether I'm tinkering with tech or diving into a new project, I’m always seeking ways to innovate. When I’m not behind a screen, you’ll find me on the golf course or shooting hoops—sports keep me energized and balanced. | Bio: I love learning new cybersecurity and IT skills! I love Open Source Intelligence and playing around with virtualization software. I also love drawing, playing with Special Effects Makeup, and dancing!
+Lara Allen  | Michelle Johanson | Morgan Wilbert | Parker Anderson
+:------------:|:------------:|:------------:|:------------:
+Github: larajustus | Github: <gitHub here> | Github: morguewilbie | Github: <github here>
+Major: Information Systems | Major: Information Systems | Major: Cybersecurity | Major: Computer Science
+Bio: When I'm not coding, I love playing ultimate frisbee, reading, attending BYU sporting events, and watching Dancing with the Stars. I am originally from Wisconsin, and I am about to start an integrated IS Masters program in the fall!  | Bio: <Michelle> | Bio: I love learning new cybersecurity and IT skills! I love Open Source Intelligence and playing around with virtualization software. I also love drawing, playing with Special Effects Makeup, and dancing! | Bio: <Parker Bio here>
 
 ### Former Students
 - Korban Mahoney, 2024-2025, Cloud Engineer at BambooHR
+- Michael Kane, 2025-2026, BYU ECE
 
 
 ## How to become a member of this Github
