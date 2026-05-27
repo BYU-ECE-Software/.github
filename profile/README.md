@@ -13,9 +13,9 @@ This Github organization is a part of the Church Educational System Github Enter
 ### Student Contributors
 Lara Allen  | Michelle Johanson | Morgan Wilbert | Parker Anderson
 :------------:|:------------:|:------------:|:------------:
-Github: larajustus | Github: <gitHub here> | Github: morguewilbie | Github: <github here>
+Github: larajustus | Github: <gitHub here> | Github: morguewilbie | Github: HelamanWarrior
 Major: Information Systems | Major: Information Systems | Major: Cybersecurity | Major: Computer Science
-Bio: When I'm not coding, I love playing ultimate frisbee, reading, attending BYU sporting events, and watching Dancing with the Stars. I am originally from Wisconsin, and I am about to start an integrated IS Masters program in the fall!  | Bio: <Michelle> | Bio: I love learning new cybersecurity and IT skills! I love Open Source Intelligence and playing around with virtualization software. I also love drawing, playing with Special Effects Makeup, and dancing! | Bio: <Parker Bio here>
+Bio: When I'm not coding, I love playing ultimate frisbee, reading, attending BYU sporting events, and watching Dancing with the Stars. I am originally from Wisconsin, and I am about to start an integrated IS Masters program in the fall!  | Bio: <Michelle> | Bio: I love learning new cybersecurity and IT skills! I love Open Source Intelligence and playing around with virtualization software. I also love drawing, playing with Special Effects Makeup, and dancing! | Bio: Avid enjoyer of creating anything cool with computers—from game development and server management to videography and 3D motion graphics. Outside of these projects, I enjoy camping and spending time with family.
 
 ### Former Students
 - Korban Mahoney, 2024-2025, Cloud Engineer at BambooHR
